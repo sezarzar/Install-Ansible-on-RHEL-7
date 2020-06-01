@@ -1,4 +1,4 @@
-# Install-Ansible-on-RHEL-7 and Centos
+# Install Ansible on RHEL 7 and Centos
 
 This is  installation ansible offline on RHEL 7 and Centos
 
